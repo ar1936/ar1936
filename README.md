@@ -6,18 +6,15 @@
 
 
 <div align ="center"; style = "padding-top:10px;"  >
-    <a href="https://twitter.com/arju1936" style = "padding-right:15px;">
-    <img  alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+    <a href="https://twitter.com/arju1936">
+    <img  alt=" Ashish Ranjan | Twitter" width="22px" src="https://img.icons8.com/color/144/000000/twitter--v1.png"  />
     </a>
-    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arju1936@gmail.com&su=Please_ass_subject&body=BODY&bcc=arju1936@outlook.com" style = "padding-right:15px;" >
-    <img  alt=" | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+    <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arju1936@gmail.com&su=Please_ass_subject&body=BODY&bcc=arju1936@outlook.com"  >
+    <img  alt="Ashish Ranjan | Gmail" width="22px" src="https://img.icons8.com/color/240/000000/gmail--v1.png" />
     </a>
-    <a href="https://www.linkedin.com/in/ashish-ranjan-553209209/">
-    <img  alt="priyanka prasad  LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <a href="https://www.linkedin.com/in/ashish-ranjan-553209209/ ">
+    <img  alt="Ashish Ranjan | LinkdeIN" width="22px" src="https://img.icons8.com/color/240/000000/linkedin-2--v2.png" />
     </a>
-    <!-- <a href="https://www.instagram.com/devstrons/">
-    <img  alt="priyanka prasadInstagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-    </a> -->
 </div>
 
 <br >
