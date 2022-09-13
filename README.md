@@ -47,7 +47,7 @@ Hi, I'm Ashish Ranjan, A Student from Patna, Bihar, India completed my undergrad
 
 
 
-![priyanka's github stats](https://github-readme-stats.vercel.app/api?username=ar1936&show_icons=true&theme=tokyonight)
+![Ashish's github stats](https://github-readme-stats.vercel.app/api?username=ar1936&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar1936&theme=tokyonight)
 
 ![ReadMe Card](https://github-readme-streak-stats.herokuapp.com/?user=ar1936&theme=tokyonight&ring=DD2727&fire=DD2727&currStreakNum=6695E6)
