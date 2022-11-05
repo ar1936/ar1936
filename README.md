@@ -24,10 +24,10 @@
 
 Hi, I'm Ashish Ranjan, A Student from Patna, Bihar, India completed my undergraduation from Jadavpur University (NIRF - 11) and I am passionate about technology and want to learn & explore new technologies, Currently working in Undostres as a SoftWare Developer. 
 
-
+<!-- 
 
 ## My Contributions
-[![Ashish's github activity graph](https://ashish-github-activity.herokuapp.com/graph?username=ar1936&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://ashish-github-activity.herokuapp.com/graph)
+[![Ashish's github activity graph](https://ashish-github-activity.herokuapp.com/graph?username=ar1936&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://ashish-github-activity.herokuapp.com/graph) -->
 
 <!--![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)-->
 
