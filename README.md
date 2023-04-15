@@ -20,9 +20,8 @@
 <br >
 <br />
 
-**Just a Introduction:**
 
-Hi, I'm Ashish Ranjan, A Student from Patna, Bihar, India completed my undergraduation from Jadavpur University (NIRF - 11) and I am passionate about technology and want to learn & explore new technologies, Currently working in Undostres as a SoftWare Developer. 
+
 
 <!-- 
 
